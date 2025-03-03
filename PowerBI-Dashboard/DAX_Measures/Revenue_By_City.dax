@@ -1,0 +1,5 @@
+Revenue_By_City = 
+CALCULATE(
+    SUM('10(3)_JOT_revenue_VIP_city'[Premium]),
+    USERELATIONSHIP('10(3)_JOT_revenue_VIP_city'[city_tier], '10_LC_Users_cityWise'[city_tier])
+)

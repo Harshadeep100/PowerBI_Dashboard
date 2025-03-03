@@ -1,0 +1,1 @@
+City_Tier_Bridge = DISTINCT(UNION(VALUES('10_LC_Users_cityWise'[city_tier]), VALUES('10(3)_JOT_revenue_VIP_city'[city_tier])))
