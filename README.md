@@ -13,7 +13,7 @@ and downgrade trends. The insights derived from this study will help the managem
 informed decisions and optimize content strategies post-merger, with the ultimate goal of 
 establishing Lio-Jotstar as the leading OTT platform in India. I analysed the data and provided insights.
 
-Used MySQL, SQL, Python Pandas and Numpy for exploratory data analysis and fetchinh the relevant data.
+Technology Stack Used: Used MySQL, SQL, Python Pandas and Numpy for exploratory data analysis and fetching the relevant data.
 
 Key Insights analysed are 
   1) Total Users & Growth Trends
@@ -26,6 +26,8 @@ Key Insights analysed are
   8)  Upgrade Patterns
   9)  Paid Users Distribution
   10)  Revenue Analysis
+
+-> Implemented the DAX measure scripts to connect the bridges between different metrics to best represent them accordingly.
 
 Conclusion:
   -> It is been observed that there is sharp rise in the Jotstart degraded count in the month of May, 2024 and Upgrade count is high in January 2024.
